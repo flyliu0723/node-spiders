@@ -1,0 +1,25 @@
+{
+  "name": "node-spiders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyliu0723/node-spiders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyliu0723/node-spiders/issues"
+  },
+  "homepage": "https://github.com/flyliu0723/node-spiders#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "q": "^1.5.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.81.0"
+  }
+}
